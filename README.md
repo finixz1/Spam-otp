@@ -15,7 +15,7 @@ termux-setup-storage
 pkg install python git -y
 
 # 4. Clone repository
-git clone https://github.com/him0x/otp
+git clone https://github.com/finixz1/Spam-otp
 
 # 5. Install dependencies
 pip install -r requirements.txt
