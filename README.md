@@ -1,7 +1,7 @@
 ## 📌 Apa Itu Spammer Otp?
 Spammer OTP WhatsApp adalah alat untuk spam OTP WhatsApp secara massal tentunya secara otomatis, hanya dengan memasukkan nomor WhatsApp 
 
-## cara install 
+## 🛠️ Cara Install 
 ### Android (termux)
 
 ```bash
