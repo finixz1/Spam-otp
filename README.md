@@ -23,5 +23,5 @@ pip install -r requirements.txt
 # 6. jalankan
 cd otp
 
-# 6. Jalankan
+# 7. Jalankan
 python main.py
