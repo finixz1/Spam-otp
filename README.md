@@ -1,14 +1,10 @@
-# 📌 apa itu spammer otp?
-Spammer OTP WhatsApp adalah alat profesional untuk spam OTP WhatsApp dengan 39 API .
-Dilengkapi dengan sistem manajemen lisensi menggunakan Supabase sebagai database backend.
+## 📌 Apa Itu Spammer Otp?
+Spammer OTP WhatsApp adalah alat untuk spam OTP WhatsApp secara massal tentunya secara otomatis, hanya dengan memasukkan nomor WhatsApp 
 
-# 🚀 OTP Spam WhatsApp
-Premium OTP Spammer dengan 39 API WhatsApp
-Sistem Manajemen Lisensi Terenkripsi
+## cara install 
+### Android (termux)
 
-# cara install 
-# Android (termux)
-
+```bash
 # 1. Update & upgrade
 pkg update && pkg upgrade
 
